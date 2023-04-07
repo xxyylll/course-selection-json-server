@@ -1,0 +1,65 @@
+{
+    "courses": [
+      {
+        "courseId": 1,
+        "courseName": "Calculus",
+        "required": true,
+        "credit": 3
+      },
+      {
+        "courseId": 2,
+        "courseName": "Data Structure",
+        "required": true,
+        "credit": 3
+      },
+      {
+        "courseId": 3,
+        "courseName": "Introduction to Programming",
+        "required": true,
+        "credit": 4
+      },
+      {
+        "courseId": 4,
+        "courseName": "Psychology 101",
+        "required": true,
+        "credit": 3
+      },
+      {
+        "courseId": 5,
+        "courseName": "English Composition",
+        "required": true,
+        "credit": 3
+      },
+      {
+        "courseId": 6,
+        "courseName": "Organic Chemistry",
+        "required": false,
+        "credit": 4
+      },
+      {
+        "courseId": 7,
+        "courseName": "Business Ethics",
+        "required": false,
+        "credit": 3
+      },
+      {
+        "courseId": 8,
+        "courseName": "Art History",
+        "required": false,
+        "credit": 2
+      },
+      {
+        "courseId": 9,
+        "courseName": "Writing for the Web",
+        "required": false,
+        "credit": 2
+      },
+      {
+        "courseId": 10,
+        "courseName": "Public Speaking",
+        "required": false,
+        "credit": 1
+      }
+    ]
+  }
+  
